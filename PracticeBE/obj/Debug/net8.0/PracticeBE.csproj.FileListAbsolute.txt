@@ -1,0 +1,14 @@
+/Users/hJ/MyProject/PracticeBE/PracticeBE/bin/Debug/net8.0/PracticeBE
+/Users/hJ/MyProject/PracticeBE/PracticeBE/bin/Debug/net8.0/PracticeBE.deps.json
+/Users/hJ/MyProject/PracticeBE/PracticeBE/bin/Debug/net8.0/PracticeBE.runtimeconfig.json
+/Users/hJ/MyProject/PracticeBE/PracticeBE/bin/Debug/net8.0/PracticeBE.dll
+/Users/hJ/MyProject/PracticeBE/PracticeBE/bin/Debug/net8.0/PracticeBE.pdb
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.AssemblyInfoInputs.cache
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.AssemblyInfo.cs
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.csproj.CoreCompileInputs.cache
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.dll
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/refint/PracticeBE.dll
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.pdb
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/PracticeBE.genruntimeconfig.cache
+/Users/hJ/MyProject/PracticeBE/PracticeBE/obj/Debug/net8.0/ref/PracticeBE.dll
